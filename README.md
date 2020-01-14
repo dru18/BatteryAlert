@@ -1,5 +1,7 @@
 # BatteryAlert
 
+![Battery Alert startup app](https://github.com/dru18/BatteryAlert/blob/67d4625e9e8fb9c7ab49908aaff8023a25afc848/Screenshot/batteryalertstartupapp.png)
+
 ![Battery Alert](https://github.com/dru18/BatteryAlert/blob/67d4625e9e8fb9c7ab49908aaff8023a25afc848/Screenshot/batteryalertterminal.png)
 
 **Run this command in your terminal to use this script.**
