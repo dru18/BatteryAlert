@@ -10,3 +10,7 @@
 **Add this command to your autorun program to add it there for you.**
 
 ``` gnome-terminal -x batteryalert.sh ```
+
+**Replace *gnome-terminal* with *xfce-terminal* if you are using xfce terminal.**
+
+``` xfce-terminal -x batteryalert.sh ```
