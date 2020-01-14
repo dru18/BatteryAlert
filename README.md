@@ -25,7 +25,7 @@
 
 ``` xfce-terminal -x watch ~/batteryalert.sh ```
 
-> Note: Replace *~/batteryalert.sh* with **it's location** where it is placed by you if *batteryalert.sh* is not in your home directory.
+> Note: **Replace *~/batteryalert.sh* with it's location** where it is placed by you if *batteryalert.sh* is not in your home directory.
 
 ![Battery Alert startup app](https://github.com/dru18/BatteryAlert/blob/67d4625e9e8fb9c7ab49908aaff8023a25afc848/Screenshot/batteryalertstartupapp.png)
 
