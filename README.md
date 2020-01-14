@@ -29,6 +29,6 @@
 
 ![Battery Alert startup app](https://github.com/dru18/BatteryAlert/blob/67d4625e9e8fb9c7ab49908aaff8023a25afc848/Screenshot/batteryalertstartupapp.png)
 
-> Now you can hit **Run** button or logout and login to run it. Everytime you will login this script will run at startup for you now.
+> Now you can hit **Run** button or logout and login to run it. Everytime you will login, this script will run at startup for you now.
 
-# Done
+# Done :+1:
